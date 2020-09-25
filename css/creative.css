@@ -82,6 +82,34 @@ aside {
 .no-padding {
   padding: 0;
 }
+.fa-facebook {
+  color: white;
+  font-size: 20px;
+  float: right;
+  padding-top: 15px;
+  padding-bottom: 15px; 
+  padding-left: 30px; 
+  padding-right: 15px;
+}
+
+.article-date {
+  /* margin-top: 20px; */
+  line-height: 30px;
+  font-variant: small-caps;
+  color: gray;
+  font-size: 14px;
+  float: right;
+}
+
+.soft-divider {
+  height: 3px;
+  background-color: var(--green-logo);
+  width: 55%;
+  float:center;
+  margin:auto;
+  border-radius: 1px;
+}
+
 .navbar-article {
   background-color: var(--green-background);
   -webkit-box-shadow: 0px 2px 10px 5px rgba(97,122,28,0.36);
